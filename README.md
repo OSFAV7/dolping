@@ -70,12 +70,14 @@ Please give ideas and a detailed plan about how to assemble and train an army of
 ## Example Output
 
 
+## Future Plans
+Dolphin 3.0 dataset is in progress, and will include:
+- enhanced general chat use-cases
+- enhanced structured output
+- enhanced Agent cases like Autogen, Memgpt, Functions
+- enhanced role-playing
 
 [If you would like to financially support my efforts](https://ko-fi.com/erichartford)
 
-[I also have some swag you can buy](https://fa7113.myshopify.com/)
-
-
-
-
+[swag](https://fa7113.myshopify.com/)
 
