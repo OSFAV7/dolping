@@ -69,6 +69,7 @@ Please give ideas and a detailed plan about how to assemble and train an army of
 
 ## Example Output
 
+<img src="https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/RQ9ovFrmT3f64WAlfBHY6.png" width="600" />
 
 ## Future Plans
 Dolphin 3.0 dataset is in progress, and will include:
