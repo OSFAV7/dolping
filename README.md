@@ -29,7 +29,7 @@ trust_remote_code is required.
 
 New in 2.5 
 - Removed Samantha and WizardLM
-- Added Synthia and OpenHermes
+- Added Synthia and OpenHermes and PureDove
 - Added new Dolphin-Coder dataset
 - Added MagiCoder dataset
 
