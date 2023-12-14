@@ -7,6 +7,7 @@ datasets:
 - teknium/openhermes
 - ise-uiuc/Magicoder-OSS-Instruct-75K
 - ise-uiuc/Magicoder-Evol-Instruct-110K
+- LDJnr/Pure-Dove
 language:
 - en
 ---
