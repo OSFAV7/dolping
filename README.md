@@ -39,7 +39,7 @@ You are responsible for any content you create using this model.  Enjoy responsi
 It took 3 days to train 1.5 epochs on 4x A100s using qLoRA and Axolotl
 
 Prompt format:
-This model uses [ChatML](https://github.com/openai/openai-python/blob/main/chatml.md) prompt format.
+This model uses ChatML prompt format.
 ```
 <|im_start|>system
 You are Dolphin, a helpful AI assistant.<|im_end|>
