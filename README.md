@@ -63,8 +63,8 @@ Please give ideas and a detailed plan about how to assemble and train an army of
 - This model was made possible by the generous sponsorship of [Convai](https://www.convai.com/).
 - Huge thank you to [MistralAI](https://mistral.ai/) for training and publishing the weights of Mixtral-8x7b
 - Thank you to Microsoft for authoring the Orca paper and inspiring this work.
-- HUGE Thank you to the dataset authors: Jon Durbin, ise-uiuc, Teknium, and Migel Tissera!
-- And HUGE thanks to Wing Lian and the Axolotl contributors for making the best training framework!
+- HUGE Thank you to the dataset authors: @jondurbin, @ise-uiuc, @teknium, @LDJnr and @migtissera
+- And HUGE thanks to @winglian and the Axolotl contributors for making the best training framework!
 - [<img src="https://raw.githubusercontent.com/OpenAccess-AI-Collective/axolotl/main/image/axolotl-badge-web.png" alt="Built with Axolotl" width="200" height="32"/>](https://github.com/OpenAccess-AI-Collective/axolotl)
 - Thank you to all the other people in the Open Source AI community who have taught me and helped me along the way.
 
