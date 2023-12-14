@@ -22,6 +22,8 @@ This model is based on Mixtral-8x7b
 
 The base model has 32k context, I finetuned it with 16k.
 
+This Dolphin is *really good* at coding, I trained with a lot of coding data.  It is *very* obedient but it is not DPO tuned - so you still might need to encourage it in the system prompt as I show in the below examples.
+
 trust_remote_code is required.
 
 New in 2.5 
