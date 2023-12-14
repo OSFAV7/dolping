@@ -10,6 +10,7 @@ datasets:
 - LDJnr/Pure-Dove
 language:
 - en
+license: apache-2.0
 ---
 
 Dolphin 2.5 Mixtral 8x7b 🐬
@@ -82,4 +83,3 @@ Dolphin 3.0 dataset is in progress, and will include:
 [If you would like to financially support my efforts](https://ko-fi.com/erichartford)
 
 [swag](https://fa7113.myshopify.com/)
-
