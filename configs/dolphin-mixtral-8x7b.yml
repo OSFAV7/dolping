@@ -7,6 +7,9 @@ load_in_8bit: false
 load_in_4bit: true
 strict: false
 
+model_config:
+  output_router_logits: true
+
 datasets:
   - path: /workspace/datasets/dolphin/dolphin201.jsonl
     type: alpaca_w_system.load_open_orca_chatml
