@@ -15,6 +15,8 @@ license: apache-2.0
 
 Dolphin 2.5 Mixtral 8x7b 🐬
 
+Discord https://discord.gg/SmbBewAM
+
 https://erichartford.com/dolphin-25-mixtral-8x7b
 
 <img src="https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/ldkN1J0WIDQwU4vutGYiD.png" width="600" />
