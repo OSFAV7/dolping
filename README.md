@@ -77,7 +77,7 @@ Please give ideas and a detailed plan about how to assemble and train an army of
 <img src="https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/RQ9ovFrmT3f64WAlfBHY6.png" width="600" />
 
 ```
-$ ollama run dolphin "choose a leetcode hard problem, solve it in Kotlin"
+$ ollama run dolphin-mixtral "choose a leetcode hard problem, solve it in Kotlin"
 
  Sure, I can do that. Let's choose the problem "Find Largest Submatrix with All Ones" from LeetCode.
 
