@@ -15,7 +15,8 @@ license: apache-2.0
 
 Dolphin 2.5 Mixtral 8x7b 🐬
 
-Join our Discord! https://discord.gg/cognitivecomputations 
+[![Discord](https://img.shields.io/discord/1156064224225808488?logo=Discord&logoColor=%23ffffff&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FtCMkMDDHwm)](https://discord.gg/cognitivecomputations)
+Discord: https://discord.gg/cognitivecomputations
 
 https://erichartford.com/dolphin-25-mixtral-8x7b
 
